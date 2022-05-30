@@ -1,0 +1,8 @@
+{
+  "name": "gestion_pharmacie",
+  "description": "A starter project for AngularJS",
+  "dependencies": {
+    "angularfire": "^2.3.0",
+    "jquery": "^3.6.0"
+  }
+}
